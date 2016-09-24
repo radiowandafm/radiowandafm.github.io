@@ -1,1 +1,6 @@
-ErrorDocument 404 /err404.html
+Order Deny,Allow
+Deny from all
+Allow from 46.72.121.220
+
+
+
