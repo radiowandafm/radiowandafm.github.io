@@ -1,5 +1,5 @@
 Order Deny,Allow
-Deny from all
+Deny from all .iho.ru
 Allow from 46.72.121.220
 
 
